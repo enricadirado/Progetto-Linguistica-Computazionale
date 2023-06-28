@@ -1,0 +1,397 @@
+
+Enrica Di Rado
+
+Programma 2
+
+Informazioni sul file: 'A Vindication of the Rights of Woman'
+
+
+Le 10 Pos più frequenti:
+
+1 NN 	frequenza: 2872
+2 IN 	frequenza: 2239
+3 DT 	frequenza: 1645
+4 , 	frequenza: 1592
+5 JJ 	frequenza: 1326
+6 VB 	frequenza: 991
+7 NNS 	frequenza: 921
+8 RB 	frequenza: 862
+9 PRP 	frequenza: 734
+10 CC 	frequenza: 710
+
+I 10 bigrammi di PoS più frequenti:
+
+1 DT NN 	frequenza: 843
+2 NN IN 	frequenza: 740
+3 NN , 	frequenza: 720
+4 IN DT 	frequenza: 636
+5 JJ NN 	frequenza: 613
+6 IN NN 	frequenza: 562
+7 DT JJ 	frequenza: 489
+8 TO VB 	frequenza: 454
+9 , IN 	frequenza: 354
+10 , CC 	frequenza: 299
+
+I 10 trigrammi di PoS più frequenti:
+
+1 DT NN IN 	frequenza: 369
+2 DT JJ NN 	frequenza: 338
+3 IN DT NN 	frequenza: 324
+4 NN IN NN 	frequenza: 290
+5 IN NN , 	frequenza: 212
+6 IN DT JJ 	frequenza: 185
+7 JJ NN , 	frequenza: 183
+8 NN IN DT 	frequenza: 168
+9 NN , CC 	frequenza: 166
+10 JJ NN IN 	frequenza: 158
+
+I 20 aggettivi più frequenti:
+
+1 same 	frequenza: 27
+2 such 	frequenza: 26
+3 human 	frequenza: 26
+4 present 	frequenza: 21
+5 natural 	frequenza: 21
+6 weak 	frequenza: 18
+7 necessary 	frequenza: 17
+8 own 	frequenza: 17
+9 more 	frequenza: 17
+10 common 	frequenza: 15
+11 other 	frequenza: 15
+12 true 	frequenza: 14
+13 little 	frequenza: 14
+14 female 	frequenza: 14
+15 first 	frequenza: 13
+16 few 	frequenza: 13
+17 great 	frequenza: 13
+18 moral 	frequenza: 13
+19 good 	frequenza: 12
+20 rational 	frequenza: 12
+
+I 20 avverbi più frequenti:
+
+1 not 	frequenza: 177
+2 when 	frequenza: 74
+3 only 	frequenza: 55
+4 more 	frequenza: 33
+5 so 	frequenza: 28
+6 never 	frequenza: 26
+7 very 	frequenza: 23
+8 then 	frequenza: 21
+9 most 	frequenza: 20
+10 as 	frequenza: 16
+11 still 	frequenza: 16
+12 how 	frequenza: 15
+13 well 	frequenza: 15
+14 ever 	frequenza: 14
+15 thus 	frequenza: 13
+16 always 	frequenza: 13
+17 yet 	frequenza: 12
+18 naturally 	frequenza: 11
+19 equally 	frequenza: 11
+20 now 	frequenza: 11
+
+
+
+
+I 20 bigrammi formati da aggettivo e sostantivo ordinati per frequenza:
+
+Bigramma: rational creatures 	Frequenza: 6
+Bigramma: common sense 	Frequenza: 5
+Bigramma: own reason 	Frequenza: 5
+Bigramma: sufficient strength 	Frequenza: 4
+Bigramma: immortal soul 	Frequenza: 3
+Bigramma: other words 	Frequenza: 3
+Bigramma: human nature 	Frequenza: 3
+Bigramma: mistaken notions 	Frequenza: 3
+Bigramma: female character 	Frequenza: 3
+Bigramma: same time 	Frequenza: 3
+Bigramma: moral beings 	Frequenza: 3
+Bigramma: human virtue 	Frequenza: 3
+Bigramma: human excellence 	Frequenza: 2
+Bigramma: first principles 	Frequenza: 2
+Bigramma: fair sex 	Frequenza: 2
+Bigramma: present enjoyment 	Frequenza: 2
+Bigramma: human species 	Frequenza: 2
+Bigramma: supreme wisdom 	Frequenza: 2
+Bigramma: little knowledge 	Frequenza: 2
+Bigramma: sublime emotions 	Frequenza: 2
+
+Il bigramma con frequenza massima è ('rational', 'creatures') e la sua frequenza corrisponde a 6
+
+
+I 20 bigrammi formati da aggettivo e sostantivo ordinati per probabilità condizionata:
+
+Bigramma: immortal soul 	Probabilità condizionata: 0.6
+Bigramma: poor substitute 	Probabilità condizionata: 0.5
+Bigramma: mistaken notions 	Probabilità condizionata: 0.5
+Bigramma: prevailing prejudice 	Probabilità condizionata: 0.5
+Bigramma: rational creatures 	Probabilità condizionata: 0.46154
+Bigramma: supreme wisdom 	Probabilità condizionata: 0.4
+Bigramma: sufficient strength 	Probabilità condizionata: 0.33333
+Bigramma: fair sex 	Probabilità condizionata: 0.33333
+Bigramma: common sense 	Probabilità condizionata: 0.33333
+Bigramma: sublime emotions 	Probabilità condizionata: 0.33333
+Bigramma: solid basis 	Probabilità condizionata: 0.33333
+Bigramma: serious business 	Probabilità condizionata: 0.28571
+Bigramma: own reason 	Probabilità condizionata: 0.27778
+Bigramma: accountable creature 	Probabilità condizionata: 0.25
+Bigramma: constant love 	Probabilità condizionata: 0.25
+Bigramma: obvious truth 	Probabilità condizionata: 0.25
+Bigramma: bodily strength 	Probabilità condizionata: 0.25
+Bigramma: open force 	Probabilità condizionata: 0.25
+Bigramma: perfect education 	Probabilità condizionata: 0.25
+Bigramma: free use 	Probabilità condizionata: 0.25
+
+Il bigramma con probabilità condizionata massima è ('immortal', 'soul') e la sua probabilità corrisponde a 0.6
+
+
+I 20 bigrammi formati da aggettivo e sostantivo ordinati per Local Mutual Information:
+
+Bigramma: rational creatures 	LMI: 58.6305
+Bigramma: common sense 	LMI: 45.8238
+Bigramma: own reason 	LMI: 32.6413
+Bigramma: sufficient strength 	LMI: 32.4025
+Bigramma: mistaken notions 	LMI: 31.2054
+Bigramma: moral beings 	LMI: 29.3152
+Bigramma: immortal soul 	LMI: 28.4165
+Bigramma: other words 	LMI: 27.2396
+Bigramma: same time 	LMI: 23.1519
+Bigramma: poor substitute 	LMI: 21.7744
+Bigramma: prevailing prejudice 	LMI: 21.7744
+Bigramma: solid basis 	LMI: 21.2484
+Bigramma: serious business 	LMI: 20.8036
+Bigramma: female character 	LMI: 20.3993
+Bigramma: sublime emotions 	LMI: 19.2484
+Bigramma: supreme wisdom 	LMI: 19.1306
+Bigramma: various circumstances 	LMI: 19.1306
+Bigramma: various employments 	LMI: 19.1306
+Bigramma: few years 	LMI: 19.0174
+Bigramma: human nature 	LMI: 18.5603
+
+Il bigramma con Local Mutual Information massima è ('rational', 'creatures') e la sua LMI corrisponde a 58.6305
+
+
+
+La frase con la media della distribuzione di frequenza di token più alta è ' What is then to become of her? ', la cui media di distribuzione di frequenza è 7950.375
+
+La frase con la media della distribuzione di frequenza di token più bassa è' It is of great importance to observe that the character of every man is, in some degree, formed by his profession. ', la cui media di distribuzione di frequenza è 560.9166666666666
+
+La frase con la probabilità più alta, stimata attraverso un modello di Markov di ordine 2, è' is undoubtedly a most natural consequence. ', la cui probabilità è 2.6399155227032738e-05
+
+
+I 15 nomi propri di persona più frequenti:
+
+1  Rousseau 	Frequenza: 11
+2  Gregory 	Frequenza: 5
+3  God 	Frequenza: 3
+4  Milton 	Frequenza: 3
+5  Adam 	Frequenza: 2
+6  Genius 	Frequenza: 1
+7  Man 	Frequenza: 1
+8  Lord 	Frequenza: 1
+9  Lord Bacon 	Frequenza: 1
+10  Woman 	Frequenza: 1
+11  Tedious 	Frequenza: 1
+12  Riches 	Frequenza: 1
+13  Eve 	Frequenza: 1
+14  Pope 	Frequenza: 1
+15  Quixote 	Frequenza: 1
+
+
+
+
+Informazioni sul file: Ted Talks
+
+
+Le 10 Pos più frequenti:
+
+1 NN 	frequenza: 2073
+2 IN 	frequenza: 1822
+3 DT 	frequenza: 1535
+4 PRP 	frequenza: 1522
+5 RB 	frequenza: 1076
+6 , 	frequenza: 1071
+7 JJ 	frequenza: 979
+8 . 	frequenza: 965
+9 NNS 	frequenza: 954
+10 VBP 	frequenza: 808
+
+I 10 bigrammi di PoS più frequenti:
+
+1 DT NN 	frequenza: 766
+2 IN DT 	frequenza: 554
+3 PRP VBP 	frequenza: 515
+4 NN IN 	frequenza: 440
+5 TO VB 	frequenza: 378
+6 NN . 	frequenza: 376
+7 JJ NN 	frequenza: 357
+8 NN , 	frequenza: 356
+9 PRP VBD 	frequenza: 345
+10 DT JJ 	frequenza: 300
+
+I 10 trigrammi di PoS più frequenti:
+
+1 IN DT NN 	frequenza: 299
+2 DT JJ NN 	frequenza: 187
+3 DT NN IN 	frequenza: 182
+4 . PRP VBP 	frequenza: 151
+5 NN IN DT 	frequenza: 139
+6 DT NN . 	frequenza: 124
+7 DT NN , 	frequenza: 111
+8 NN . PRP 	frequenza: 111
+9 PRP MD VB 	frequenza: 102
+10 IN PRP VBP 	frequenza: 101
+
+I 20 aggettivi più frequenti:
+
+1 many 	frequenza: 24
+2 more 	frequenza: 23
+3 young 	frequenza: 23
+4 black 	frequenza: 23
+5 other 	frequenza: 21
+6 good 	frequenza: 21
+7 little 	frequenza: 17
+8 different 	frequenza: 17
+9 much 	frequenza: 16
+10 first 	frequenza: 14
+11 new 	frequenza: 14
+12 same 	frequenza: 14
+13 hard 	frequenza: 12
+14 important 	frequenza: 11
+15 high 	frequenza: 10
+16 African-American 	frequenza: 10
+17 real 	frequenza: 9
+18 social 	frequenza: 9
+19 most 	frequenza: 9
+20 true 	frequenza: 9
+
+I 20 avverbi più frequenti:
+
+1 not 	frequenza: 116
+2 n't 	frequenza: 106
+3 very 	frequenza: 55
+4 just 	frequenza: 40
+5 really 	frequenza: 40
+6 when 	frequenza: 39
+7 more 	frequenza: 38
+8 So 	frequenza: 36
+9 Now 	frequenza: 36
+10 so 	frequenza: 35
+11 then 	frequenza: 32
+12 how 	frequenza: 28
+13 also 	frequenza: 25
+14 where 	frequenza: 24
+15 now 	frequenza: 21
+16 even 	frequenza: 20
+17 actually 	frequenza: 15
+18 here 	frequenza: 15
+19 ago 	frequenza: 15
+20 still 	frequenza: 15
+
+
+
+
+I 20 bigrammi formati da aggettivo e sostantivo ordinati per frequenza:
+
+Bigramma: black women 	Frequenza: 9
+Bigramma: young women 	Frequenza: 6
+Bigramma: African-American women 	Frequenza: 5
+Bigramma: young men 	Frequenza: 4
+Bigramma: high bridge 	Frequenza: 4
+Bigramma: first time 	Frequenza: 4
+Bigramma: more questions 	Frequenza: 3
+Bigramma: civil rights 	Frequenza: 3
+Bigramma: first-born son 	Frequenza: 3
+Bigramma: bad feminist 	Frequenza: 3
+Bigramma: black people 	Frequenza: 3
+Bigramma: bottom power 	Frequenza: 3
+Bigramma: long time 	Frequenza: 3
+Bigramma: new set 	Frequenza: 3
+Bigramma: social justice 	Frequenza: 3
+Bigramma: many men 	Frequenza: 3
+Bigramma: white women 	Frequenza: 3
+Bigramma: middle class 	Frequenza: 3
+Bigramma: little bit 	Frequenza: 3
+Bigramma: African-American men 	Frequenza: 3
+
+Il bigramma con frequenza massima è ('black', 'women') e la sua frequenza corrisponde a 9
+
+
+I 20 bigrammi formati da aggettivo e sostantivo ordinati per probabilità condizionata:
+
+Bigramma: civil rights 	Probabilità condizionata: 0.75
+Bigramma: first-born son 	Probabilità condizionata: 0.75
+Bigramma: bottom power 	Probabilità condizionata: 0.75
+Bigramma: African feminist 	Probabilità condizionata: 0.5
+Bigramma: Many years 	Probabilità condizionata: 0.5
+Bigramma: white women 	Probabilità condizionata: 0.5
+Bigramma: African-American women 	Probabilità condizionata: 0.5
+Bigramma: certain age 	Probabilità condizionata: 0.5
+Bigramma: long time 	Probabilità condizionata: 0.42857
+Bigramma: middle class 	Probabilità condizionata: 0.42857
+Bigramma: stronger person 	Probabilità condizionata: 0.4
+Bigramma: economic changes 	Probabilità condizionata: 0.4
+Bigramma: high bridge 	Probabilità condizionata: 0.4
+Bigramma: second set 	Probabilità condizionata: 0.4
+Bigramma: human beings 	Probabilità condizionata: 0.4
+Bigramma: black women 	Probabilità condizionata: 0.3913
+Bigramma: bad feminist 	Probabilità condizionata: 0.33333
+Bigramma: social justice 	Probabilità condizionata: 0.33333
+Bigramma: African-American men 	Probabilità condizionata: 0.3
+Bigramma: young women 	Probabilità condizionata: 0.26087
+
+Il bigramma con probabilità condizionata massima è ('civil', 'rights') e la sua probabilità corrisponde a 0.75
+
+
+I 20 bigrammi formati da aggettivo e sostantivo ordinati per Local Mutual Information:
+
+Bigramma: black women 	LMI: 49.6436
+Bigramma: high bridge 	LMI: 42.1545
+Bigramma: civil rights 	LMI: 35.3023
+Bigramma: first-born son 	LMI: 32.3023
+Bigramma: social justice 	LMI: 31.7925
+Bigramma: bottom power 	LMI: 30.201
+Bigramma: first time 	LMI: 29.7103
+Bigramma: young women 	LMI: 29.5859
+Bigramma: African-American women 	LMI: 29.3479
+Bigramma: new set 	LMI: 26.8802
+Bigramma: little bit 	LMI: 26.8036
+Bigramma: middle class 	LMI: 25.5019
+Bigramma: long time 	LMI: 24.6156
+Bigramma: more questions 	LMI: 22.5443
+Bigramma: economic changes 	LMI: 21.7211
+Bigramma: bad feminist 	LMI: 21.4142
+Bigramma: young men 	LMI: 21.2054
+Bigramma: certain age 	LMI: 21.195
+Bigramma: human beings 	LMI: 21.0772
+Bigramma: great grandmother 	LMI: 20.3649
+
+Il bigramma con Local Mutual Information massima è ('black', 'women') e la sua LMI corrisponde a 49.6436
+
+
+
+La frase con la media della distribuzione di frequenza di token più alta è' We must do better." ', la cui media di distribuzione di frequenza è 113792.16666666667
+
+La frase con la media della distribuzione di frequenza di token più bassa è' I decided, okay, I can claim the feminist label. ', la cui media di distribuzione di frequenza è 1069.5833333333333
+
+La frase con la probabilità più alta, stimata attraverso un modello di Markov di ordine 2, è' Don't leave before you leave. ', la cui probabilità è 8.067552304630775e-05
+
+
+I 15 nomi propri di persona più frequenti:
+
+1  Emma 	Frequenza: 13
+2  Okoloma 	Frequenza: 8
+3  Louis 	Frequenza: 7
+4  Carrie 	Frequenza: 3
+5  Heidi 	Frequenza: 3
+6  Howard 	Frequenza: 3
+7  Barnard 	Frequenza: 2
+8  Barnard College 	Frequenza: 2
+9  Jennifer 	Frequenza: 2
+10  Jessica 	Frequenza: 2
+11  Michelle 	Frequenza: 2
+12  Emma DeGraffenreid 	Frequenza: 2
+13  Bad 	Frequenza: 2
+14  Bad Feminist 	Frequenza: 2
+15  Beyoncé 	Frequenza: 2

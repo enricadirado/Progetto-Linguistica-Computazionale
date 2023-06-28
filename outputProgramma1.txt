@@ -1,0 +1,141 @@
+
+Enrica Di Rado
+
+Programma 1
+
+'A Vindication of the Rights of Woman' contiene 446 frasi, mentre i Ted Talks contengono 967 frasi.
+Quindi, i Ted Talks hanno più frasi di 'A Vindication of the Rights of Woman'.
+
+
+'A Vindication of the Rights of Woman' contiene 18940 tokens, mentre i Ted Talks contengono 18593 tokens.
+Quindi, 'A Vindication of the Rights of Woman' ha più tokens dei Ted Talks.
+
+
+Mediamente, le frasi di 'A Vindication of the Rights of Woman' sono lunghe 42.4664 tokens, mentre le frasi dei Ted Talks sono lunghe 19.2275 tokens.
+Quindi, le frasi di 'A Vindication of the Rights of Woman' sono mediamente più lunghe delle frasi dei Ted Talks.
+
+
+Mediamente, i tokens di 'A Vindication of the Rights of Woman' sono lunghi 4.1539 caratteri, mentre i tokens dei Ted Talks sono lunghi 3.6934 caratteri.
+Quindi, i tokens di 'A Vindication of the Rights of Woman' sono mediamente più lunghi dei token dei Ted Talks.
+
+
+Sui primi 1000 tokens di 'A Vindication of the Rights of Woman' ci sono  357 hapax, mentre sui primi 1000 tokens dei Ted Talks ci sono 293 hapax.
+Quindi, sui primi 1000 tokens 'A Vindication of the Rights of Woman' ha più hapax dei Ted Talks.
+
+
+Analisi della grandezza del vocabolario e della ricchezza lessicale per porzioni incrementali di 500 token di 'A Vindication of the Rights of Woman' e dei Ted Talks  :
+
+0 - 500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 266 	 Ted Talks : 247 	TTR 'A Vindication of the Rights of Woman' : 0.532 	 Ted Talks : 0.494
+0 - 1000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 469 	 Ted Talks : 417 	TTR 'A Vindication of the Rights of Woman' : 0.469 	 Ted Talks : 0.417
+0 - 1500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 614 	 Ted Talks : 561 	TTR 'A Vindication of the Rights of Woman' : 0.4093 	 Ted Talks : 0.374
+0 - 2000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 780 	 Ted Talks : 686 	TTR 'A Vindication of the Rights of Woman' : 0.39 	 Ted Talks : 0.343
+0 - 2500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 941 	 Ted Talks : 813 	TTR 'A Vindication of the Rights of Woman' : 0.3764 	 Ted Talks : 0.3252
+0 - 3000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1087 	 Ted Talks : 897 	TTR 'A Vindication of the Rights of Woman' : 0.3623 	 Ted Talks : 0.299
+0 - 3500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1215 	 Ted Talks : 977 	TTR 'A Vindication of the Rights of Woman' : 0.3471 	 Ted Talks : 0.2791
+0 - 4000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1329 	 Ted Talks : 1056 	TTR 'A Vindication of the Rights of Woman' : 0.3322 	 Ted Talks : 0.264
+0 - 4500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1423 	 Ted Talks : 1123 	TTR 'A Vindication of the Rights of Woman' : 0.3162 	 Ted Talks : 0.2496
+0 - 5000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1518 	 Ted Talks : 1194 	TTR 'A Vindication of the Rights of Woman' : 0.3036 	 Ted Talks : 0.2388
+0 - 5500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1606 	 Ted Talks : 1277 	TTR 'A Vindication of the Rights of Woman' : 0.292 	 Ted Talks : 0.2322
+0 - 6000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1691 	 Ted Talks : 1343 	TTR 'A Vindication of the Rights of Woman' : 0.2818 	 Ted Talks : 0.2238
+0 - 6500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1800 	 Ted Talks : 1421 	TTR 'A Vindication of the Rights of Woman' : 0.2769 	 Ted Talks : 0.2186
+0 - 7000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1866 	 Ted Talks : 1485 	TTR 'A Vindication of the Rights of Woman' : 0.2666 	 Ted Talks : 0.2121
+0 - 7500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 1944 	 Ted Talks : 1555 	TTR 'A Vindication of the Rights of Woman' : 0.2592 	 Ted Talks : 0.2073
+0 - 8000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2025 	 Ted Talks : 1631 	TTR 'A Vindication of the Rights of Woman' : 0.2531 	 Ted Talks : 0.2039
+0 - 8500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2109 	 Ted Talks : 1695 	TTR 'A Vindication of the Rights of Woman' : 0.2481 	 Ted Talks : 0.1994
+0 - 9000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2183 	 Ted Talks : 1747 	TTR 'A Vindication of the Rights of Woman' : 0.2426 	 Ted Talks : 0.1941
+0 - 9500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2233 	 Ted Talks : 1809 	TTR 'A Vindication of the Rights of Woman' : 0.2351 	 Ted Talks : 0.1904
+0 - 10000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2311 	 Ted Talks : 1851 	TTR 'A Vindication of the Rights of Woman' : 0.2311 	 Ted Talks : 0.1851
+0 - 10500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2381 	 Ted Talks : 1887 	TTR 'A Vindication of the Rights of Woman' : 0.2268 	 Ted Talks : 0.1797
+0 - 11000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2466 	 Ted Talks : 1923 	TTR 'A Vindication of the Rights of Woman' : 0.2242 	 Ted Talks : 0.1748
+0 - 11500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2540 	 Ted Talks : 1981 	TTR 'A Vindication of the Rights of Woman' : 0.2209 	 Ted Talks : 0.1723
+0 - 12000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2592 	 Ted Talks : 2065 	TTR 'A Vindication of the Rights of Woman' : 0.216 	 Ted Talks : 0.1721
+0 - 12500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2642 	 Ted Talks : 2140 	TTR 'A Vindication of the Rights of Woman' : 0.2114 	 Ted Talks : 0.1712
+0 - 13000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2708 	 Ted Talks : 2210 	TTR 'A Vindication of the Rights of Woman' : 0.2083 	 Ted Talks : 0.17
+0 - 13500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2789 	 Ted Talks : 2246 	TTR 'A Vindication of the Rights of Woman' : 0.2066 	 Ted Talks : 0.1664
+0 - 14000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2849 	 Ted Talks : 2306 	TTR 'A Vindication of the Rights of Woman' : 0.2035 	 Ted Talks : 0.1647
+0 - 14500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2918 	 Ted Talks : 2359 	TTR 'A Vindication of the Rights of Woman' : 0.2012 	 Ted Talks : 0.1627
+0 - 15000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 2984 	 Ted Talks : 2422 	TTR 'A Vindication of the Rights of Woman' : 0.1989 	 Ted Talks : 0.1615
+0 - 15500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 3042 	 Ted Talks : 2470 	TTR 'A Vindication of the Rights of Woman' : 0.1963 	 Ted Talks : 0.1594
+0 - 16000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 3105 	 Ted Talks : 2509 	TTR 'A Vindication of the Rights of Woman' : 0.1941 	 Ted Talks : 0.1568
+0 - 16500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 3169 	 Ted Talks : 2544 	TTR 'A Vindication of the Rights of Woman' : 0.1921 	 Ted Talks : 0.1542
+0 - 17000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 3217 	 Ted Talks : 2588 	TTR 'A Vindication of the Rights of Woman' : 0.1892 	 Ted Talks : 0.1522
+0 - 17500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 3269 	 Ted Talks : 2631 	TTR 'A Vindication of the Rights of Woman' : 0.1868 	 Ted Talks : 0.1503
+0 - 18000 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 3332 	 Ted Talks : 2665 	TTR 'A Vindication of the Rights of Woman' : 0.1851 	 Ted Talks : 0.1481
+0 - 18500 tokens ---> 	Vocabolario 'A Vindication of the Rights of Woman' : 3399 	 Ted Talks : 2697 	TTR 'A Vindication of the Rights of Woman' : 0.1837 	 Ted Talks : 0.1458
+
+
+Distribuzione parole piene di 'A Vindication of the Rights of Woman'
+
+PoS: NN 	Frequenza: 2855
+PoS: JJ 	Frequenza: 1333
+PoS: VB 	Frequenza: 993
+PoS: NNS 	Frequenza: 919
+PoS: RB 	Frequenza: 850
+PoS: VBN 	Frequenza: 587
+PoS: VBZ 	Frequenza: 542
+PoS: VBP 	Frequenza: 453
+PoS: MD 	Frequenza: 398
+PoS: VBG 	Frequenza: 266
+PoS: VBD 	Frequenza: 193
+PoS: NNP 	Frequenza: 168
+PoS: WRB 	Frequenza: 122
+PoS: RBR 	Frequenza: 43
+PoS: JJR 	Frequenza: 41
+PoS: JJS 	Frequenza: 26
+PoS: RBS 	Frequenza: 20
+PoS: NNPS 	Frequenza: 2
+
+
+Distribuzione parole funzionali di 'A Vindication of the Rights of Woman'
+
+PoS: IN 	Frequenza: 2241
+PoS: DT 	Frequenza: 1643
+PoS: PRP 	Frequenza: 734
+PoS: CC 	Frequenza: 717
+PoS: TO 	Frequenza: 647
+PoS: PRP$ 	Frequenza: 405
+PoS: WP 	Frequenza: 125
+PoS: PDT 	Frequenza: 25
+PoS: WP$ 	Frequenza: 17
+
+
+Distribuzione parole piene dei Ted Talks
+
+PoS: NN 	Frequenza: 2050
+PoS: RB 	Frequenza: 1056
+PoS: JJ 	Frequenza: 990
+PoS: NNS 	Frequenza: 944
+PoS: VBP 	Frequenza: 805
+PoS: VB 	Frequenza: 792
+PoS: VBD 	Frequenza: 606
+PoS: VBZ 	Frequenza: 456
+PoS: NNP 	Frequenza: 347
+PoS: VBG 	Frequenza: 331
+PoS: VBN 	Frequenza: 290
+PoS: MD 	Frequenza: 225
+PoS: WRB 	Frequenza: 136
+PoS: JJR 	Frequenza: 65
+PoS: RBR 	Frequenza: 46
+PoS: JJS 	Frequenza: 26
+PoS: RBS 	Frequenza: 10
+PoS: NNPS 	Frequenza: 5
+
+
+Distribuzione parole funzionali dei Ted Talks
+
+PoS: IN 	Frequenza: 1836
+PoS: DT 	Frequenza: 1532
+PoS: PRP 	Frequenza: 1521
+PoS: CC 	Frequenza: 681
+PoS: TO 	Frequenza: 523
+PoS: PRP$ 	Frequenza: 306
+PoS: WP 	Frequenza: 195
+PoS: PDT 	Frequenza: 21
+PoS: WP$ 	Frequenza: 1
+
+
+In 'A Vindication of the Rights of Woman' il 51.8004 % di parole sono piene, mentre in Ted Talks le parole piene sono il 49.3734 %.
+Quindi, la percentuale di parole piene in 'A Vindication of the Rights of Woman' è più alta che nei Ted Talks.
+
+In 'A Vindication of the Rights of Woman' il 34.604 % di parole sono funzionali, mentre in Ted Talks le parole fuzionali sono il 35.5833 %.
+Quindi, la percentuale di parole funzionali nei Ted Talks è più alta che in 'A Vindication of the Rights of Woman'.
