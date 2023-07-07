@@ -8,13 +8,15 @@ Il progetto riguarda l'analisi di due corpus tramite NLTK.
 
 ## Python files
 - <code>[programma1.py](programma1.py)</code>
-- <code>[programma1.py](programma1.py)</code>
+- <code>[programma2.py](programma2.py)</code>
 
 Utilizzando i moduli in NLTK, i files leggono i corpus, li annotano linguisticamente, e li confrontano tramite parametri statistici.
 
 ## Corpus
-- <code>[corpus1.txt](corpus1.txt)</code>
-- <code>[corpus2.txt](corpus2.txt)</code>
+- <code>[corpus1.txt](corpus1.txt)</code> tratto da _A Vindication of the Rights of Woman_ (1792) di Mary Wollstonecraft
+- <code>[corpus2.txt](corpus2.txt)</code> trascrizioni di Ted Talks.
+
+
 
 ## Output
 - <code>[outputProgramma1.txt](outputProgramma1.txt)</code>
@@ -22,3 +24,7 @@ Utilizzando i moduli in NLTK, i files leggono i corpus, li annotano linguisticam
 
 
 
+
+
+
+ 
