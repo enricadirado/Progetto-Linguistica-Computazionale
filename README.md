@@ -14,7 +14,7 @@ Utilizzando i moduli in NLTK, i files leggono i corpus, li annotano linguisticam
 
 ## Corpus
 - <code>[corpus1.txt](corpus1.txt)</code> tratto da _A Vindication of the Rights of Woman_ (1792) di Mary Wollstonecraft
-- <code>[corpus2.txt](corpus2.txt)</code> trascrizioni di Ted Talks.
+- <code>[corpus2.txt](corpus2.txt)</code> trascrizioni di Ted Talks
 
 
 
