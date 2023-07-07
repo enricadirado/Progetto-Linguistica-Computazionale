@@ -7,7 +7,7 @@
 Il progetto riguarda l'analisi di due corpus tramite NLTK.
 
 ## Python files
-- <code>[programma1.py](docs/programma1.py)</code>
+- <code>[programma1.py](programma1.py)</code>
 - <code>[programma1.py](docs/programma1.py)</code>
 
 Utilizzando i moduli in NLTK, i files leggono i corpus, li annotano linguisticamente, e li confrontano tramite parametri statistici.
