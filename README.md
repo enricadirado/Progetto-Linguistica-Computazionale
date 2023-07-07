@@ -22,6 +22,11 @@ Utilizzando i moduli in NLTK, i files leggono i corpus, li annotano linguisticam
 - <code>[outputProgramma1.txt](outputProgramma1.txt)</code>
 - <code>[outputProgramma2.txt](outputProgramma2.txt)</code>
 
+Comandi per eseguire i programmi e ottenere gli output:
+
+<pre>python3 programma1.py corpus1.txt corpus2.txt > outputProgramma1.txt</pre>
+<pre>python3 programma2.py corpus1.txt corpus2.txt > outputProgramma2.txt</pre>
+
 
 
 
